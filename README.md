@@ -4,6 +4,7 @@ meu é Beatriz
 -Estou desemvolvendo na líguagem JavaScript
 - Ultilizo esse espaço para minha organização e compartilhamento dos meus projetos desemvolvidos
 - Você pode entrar em contato comigo
-- 00001235858583sp@aluno.educacacao.sp.gov.br
+- 00001235858583sp@aluno.educacacao.sp.gov.br![image](https://github.com/user-attachments/assets/748aa967-db01-4850-ba72-62fa07806799)
+
 - @bia_andrad.
-- https://media.giphy.com/media/cmTMrjkPXGcTtY6DSt/giphy.gif?cid=ecf05e470m6mp2h4jr0uuqfmb1e0gwh4jh3emqkb5g4rj7yu&ep=v1_gifs_search&rid=giphy.gif&ct=g
+- 
